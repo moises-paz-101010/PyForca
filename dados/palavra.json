@@ -3,7 +3,7 @@
         "girafa",
         "elefante",
         "hamster",
-        "jacar\u00e9",
+        "jacare",
         "albatroz",
         "baleia",
         "camelo",
@@ -72,11 +72,11 @@
     ],
     "corposcelestiais": [
         "planeta",
-        "sat\u00e9lite",
+        "satelite",
         "asteroide",
         "cometa",
         "estrela",
-        "gal\u00e1xia",
+        "galaxia",
         "nebulosa",
         "buraconegro"
     ]
