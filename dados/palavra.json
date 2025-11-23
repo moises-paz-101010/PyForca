@@ -1,0 +1,83 @@
+{
+    "animais": [
+        "girafa",
+        "elefante",
+        "hamster",
+        "jacar\u00e9",
+        "albatroz",
+        "baleia",
+        "camelo",
+        "canguru",
+        "rinoceronte"
+    ],
+    "frutas": [
+        "manga",
+        "lichia",
+        "melancia",
+        "ciriguela",
+        "abacaxi",
+        "nectarina",
+        "abacate",
+        "bergamota"
+    ],
+    "instrumentos": [
+        "teclado",
+        "violino",
+        "flauta",
+        "saxofone",
+        "tambor",
+        "gaita",
+        "trombone",
+        "harpa"
+    ],
+    "profissoes": [
+        "nutricionista",
+        "arquiteto",
+        "astronauta",
+        "juiz",
+        "bombeiro",
+        "cientista",
+        "eletricista",
+        "carpinteiro"
+    ],
+    "objetos": [
+        "ampulheta",
+        "fones",
+        "escada",
+        "almofada",
+        "candelabro",
+        "isqueiro",
+        "navalha",
+        "mochila"
+    ],
+    "cores": [
+        "vermelho",
+        "azul",
+        "magenta",
+        "bege",
+        "mostarda",
+        "laranja",
+        "ciano",
+        "violeta"
+    ],
+    "lugares": [
+        "praia",
+        "castelo",
+        "biblioteca",
+        "hospital",
+        "igreja",
+        "ilhota",
+        "aeroporto",
+        "planalto"
+    ],
+    "corposcelestiais": [
+        "planeta",
+        "sat\u00e9lite",
+        "asteroide",
+        "cometa",
+        "estrela",
+        "gal\u00e1xia",
+        "nebulosa",
+        "buraconegro"
+    ]
+}
