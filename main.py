@@ -133,7 +133,7 @@ while True:
                         som_jogo.play(loops=-1)
                         som_jogo.set_volume(0.2)
                     limpar_terminal()
-                    print("Para sair digite (1) a qualquer momento.")
+                    print("Para sair digite (-1) a qualquer momento.")
                     time.sleep(2)
                     while True:
                         limpar_terminal()
